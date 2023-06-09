@@ -12,7 +12,7 @@ export default function Home() {
             <title>Caleb Site</title>
         </Head>
         <h1>Hello World!</h1>
-        <p>I'm deployed in <a href="https://vercel.com/new?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app">Vercel</a></p>
+        <p>I am deployed in <a href="https://vercel.com/new?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app">Vercel</a></p>
       </div>
   )
 }
